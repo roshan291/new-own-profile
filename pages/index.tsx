@@ -14,7 +14,6 @@ export default function Home() {
       <div className={styles.bannerImage}>
         <NavBar />
         <div className={styles.content}>
-            <h3>Welcome to </h3>
             <h1>Create your own profile</h1>
         </div>
         <Footer />
