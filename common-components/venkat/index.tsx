@@ -40,7 +40,7 @@ const VenkatSingleProfile = () => {
             <div className={styles.introContent}>
                     <h2>Hello, Im <span>Venkatesh Mahendra</span></h2>
                     <h3>Im a <span>Web developer</span></h3>
-                    <p>Sample description</p>
+                    <p>An Entrepreneur always searches for change, responds to it, and seizes it as an opportunity. An Entrepreneur always searches for change, responds to it, and seizes it as an opportunity. An Entrepreneur always searches for change, responds to it, and seizes it as an opportunity. An Entrepreneur always searches for change, responds to it, and seizes it as an opportunity. An Entrepreneur always searches for change, responds to it, and seizes it as an opportunity. </p>
             </div>
             <div className={styles.introImage}>
                 {/* <span className={styles.introIcon1}></span> */}
